@@ -1,2 +1,1 @@
-"this is file2 in feature-branch"
-"this is file2 in feature-branch"
+"this is another line of file2 in feature-branch"
